@@ -1,4 +1,6 @@
-Jedna, dvě, Honza jde, 
+﻿Jedna, dvě, Honza jde, 
 nese pytel mouky, 
-máma se raduje, 
-že bude píct vdolky.
+máma se neraduje, 
+že bude péct vdolky.
+
+
